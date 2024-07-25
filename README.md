@@ -24,3 +24,5 @@ This is interesting to me because the impacts of Covid-19 are only recently unde
 
 
 ## Additional Data Ideas
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/<username>/<repository-name>/HEAD)
